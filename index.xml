@@ -6,5 +6,19 @@
     <description>Recent content on joshuaabel.com</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language><atom:link href="http://joshuaabel.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title></title>
+      <link>http://joshuaabel.com/readme/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>http://joshuaabel.com/readme/</guid>
+      <description>contact:
+echo &amp;ldquo;aGVsbG9Aam9zaHVhYWJlbC5jb20K&amp;rdquo; | base64 -d
+current:
+manager, site reliability engineering previous:
+site reliability engineer senior devops engineer captain, firefighter senior systems engineer firefighter linux systems engineer II systems administrator network admninistrator passed some tests:
+red hat certified systems administrator red hat certified engineer amateur (ham) radio license: amateur extra amazon web services cloud practitioner certified safe® 5 practitioner certified safe® 5 agilist jamf certified tech jamf certified associate </description>
+    </item>
+    
   </channel>
 </rss>
